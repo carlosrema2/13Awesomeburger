@@ -18,7 +18,7 @@ else {
     host: "localhost",
     port: 8889,
     user: "root",
-    password: "root",
+    password: process.env.MYSQL_PASSWORD,
     database: "burger_db"
   });
 }
