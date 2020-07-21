@@ -1,11 +1,11 @@
 /*Color of Devoured burgers card header*/
 #devoured-card-header  {
-    background-color: #ca341f;
+    background-color: #cb2a15;
 }
 
 /*Font color of devoured burger names*/
 .devoured-burger-name {
-    color: #ca341f;
+    color: #2b0c08;
 }
 
 /* Use Righteous font from Google fonts*/
@@ -31,13 +31,3 @@ body {
     background-size: cover;
 }
 
-/* Footer color */
-.footer-body {
-    background-color: #ca341f;
-}
-
-/*Border styling for devoured burgers card and footer */
-.devoured-card, .footer {  
-    border-style: solid;
-    border-color: #ca341f;
-}
