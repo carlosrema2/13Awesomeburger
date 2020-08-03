@@ -13,5 +13,5 @@ To devour (eat) your burger, or any other you want, just click the DEVOUR BURGER
 If you want to return the burger to the left column you can click the REGURGITATE button. (I know! I'ts kinda' gross but it's just to allow items to go to their initial state).
 
 ## Link to Deployed App
-[Link to deployed app](https://glacial-thicket-84818.herokuapp.com/) 
+[Link to deployed app](https://uncbc-eatdaburger.herokuapp.com/) 
 (Click to open app)
